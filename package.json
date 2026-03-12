@@ -1,0 +1,11 @@
+{
+  "name": "frames-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node solana.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
